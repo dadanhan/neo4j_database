@@ -3,3 +3,4 @@
 *.tar
 server_id
 /transactions
+.DS_Store
