@@ -1,0 +1,5 @@
+/databases
+/dbms
+*.tar
+server_id
+/transactions
